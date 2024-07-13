@@ -4,7 +4,7 @@
 This project is a robust implementation of a HashMap data structure in JavaScript, created as part of The Odin Project curriculum. It demonstrates fundamental computer science concepts and showcases advanced JavaScript programming techniques.
 
 ## 🚀 Features
-Our HashMap implementation includes:
+The HashMap implementation includes:
 
 - 🔑 Efficient key-value storage and retrieval
 - 🔄 Dynamic resizing to maintain optimal performance
@@ -23,7 +23,7 @@ Our HashMap implementation includes:
 - `entries()`: Get an array of all key-value pairs
 
 ## 🧪 Testing
-We've included a comprehensive test suite in `testHashMap.js` that verifies:
+I've included a comprehensive test suite in `testHashMap.js` that verifies:
 - Correct insertion and retrieval of key-value pairs
 - Proper handling of collisions
 - Accurate resizing when load factor is exceeded
@@ -42,7 +42,7 @@ We've included a comprehensive test suite in `testHashMap.js` that verifies:
 4. Run `node dist/main.js` to execute the tests
 
 ## 🧠 Learning Outcomes
-Through this project, we've gained practical experience in:
+Through this project, I've gained practical experience in:
 - Implementing complex data structures in JavaScript
 - Handling edge cases and optimizing performance
 - Using modern JavaScript features and module systems
